@@ -9,7 +9,7 @@
 ##          functions : getInverse  
 ##         
 makeCacheMatrix <- function(x = matrix()) {
-  
+   
   ##inverseMatrix == NULL if no inverse is available 
   ##   else Inverse of matrix x
   inverseMatrix <- NULL
